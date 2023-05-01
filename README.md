@@ -12,7 +12,7 @@ If you wish to contact me, here is my email address:
   - With a particulatiar interest in algorithmic and data structures
   - I use VHDL as a description language for FPGA (see my project)
   - Through the other courses I've followed, I've learned the basics in operating systems (Linux Mint is my daily OS), computer architecture and networks.
-## My work with teamates
+## My work with team mates
 - Iscale (2nd year project) \n
   *link* 
   project short description
